@@ -1,0 +1,98 @@
+*{
+  margin:0;
+  padding:0;
+  cursor: default;
+}
+body{
+  width:100vw;
+  height:100vh;
+  position:fixed;
+}
+#fc2_footer{
+  display:none;
+}
+
+.ads{
+    margin-top: -600px;
+    margin-left: -188px;
+    position: absolute;
+    transform: translate(50vw, 0px);
+}
+
+.opc0{
+  display:none;
+}
+
+.all{
+  width:360px;
+  height:600px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+#canvas{
+  position:fixed;
+  left:50vw;
+  top:15px;
+  transform:translate(-180px,0);
+  background-color:white;
+}
+
+
+
+
+
+
+
+#input{
+  position:fixed;
+  z-index:1000;
+  top:0;
+}
+#output{
+  position:fixed;
+  z-index:1000;
+  top:20px;
+}
+
+#pressa{
+  position:fixed;
+  width:20vw;
+  height:20vw;
+  top:70vh;
+  left:10vw;
+  background-color:white;
+}
+#pressd{
+  position:fixed;
+  width:20vw;
+  height:20vw;
+  top:70vh;
+  left:40vw;
+  background-color:white;
+}
+#pressw{
+  position:fixed;
+  width:20vw;
+  height:20vw;
+  top:60vh;
+  left:25vw;
+  background-color:white;
+}
+#presss{
+  position:fixed;
+  width:20vw;
+  height:20vw;
+  top:80vh;
+  left:25vw;
+  background-color:white;
+}
+#pressp{
+  position:fixed;
+  width:20vw;
+  height:20vw;
+  top:70vh;
+  left:70vw;
+  background-color:white;
+}
